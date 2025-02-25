@@ -1,0 +1,3 @@
+25/02/2025: 
+- Using ChatGPT to properly check if I have all files in the correct place. (Current directory list is directory_structure.txt)
+- Im not sure if ChatGPT fixed any issues at all, but no errors appear, and none appeared in the first place. My issue is that no icons are loading, nor are the actual extensions. The webpage runs properly, but im just confused why nothing else will.

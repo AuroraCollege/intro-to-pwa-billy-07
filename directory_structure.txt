@@ -1,0 +1,179 @@
+.
+├── .devcontainer
+│   └── devcontainer.json
+├── .git
+│   ├── COMMIT_EDITMSG
+│   ├── FETCH_HEAD
+│   ├── HEAD
+│   ├── ORIG_HEAD
+│   ├── branches
+│   ├── config
+│   ├── description
+│   ├── hooks
+│   │   ├── applypatch-msg.sample
+│   │   ├── commit-msg.sample
+│   │   ├── fsmonitor-watchman.sample
+│   │   ├── post-update.sample
+│   │   ├── pre-applypatch.sample
+│   │   ├── pre-commit.sample
+│   │   ├── pre-merge-commit.sample
+│   │   ├── pre-push.sample
+│   │   ├── pre-rebase.sample
+│   │   ├── pre-receive.sample
+│   │   ├── prepare-commit-msg.sample
+│   │   ├── push-to-checkout.sample
+│   │   ├── sendemail-validate.sample
+│   │   └── update.sample
+│   ├── index
+│   ├── info
+│   │   └── exclude
+│   ├── lfs
+│   │   └── tmp
+│   ├── logs
+│   │   ├── HEAD
+│   │   └── refs
+│   │       ├── heads
+│   │       │   └── main
+│   │       └── remotes
+│   │           └── origin
+│   ├── objects
+│   │   ├── 0a
+│   │   │   └── 71ad8d19a5e3245101c0b37ab603851ae454b7
+│   │   ├── 0d
+│   │   │   ├── 638ef9c11b7bd64641bddbb40e64989acb5e9f
+│   │   │   └── dfe6280a01587ec99dcab17d26c2f5d9031b10
+│   │   ├── 20
+│   │   │   └── 8ca03667ce2eee9f44352419a67295e7fdab7c
+│   │   ├── 2a
+│   │   │   └── 1ab9f8a8202649dc8440def3a8f822acdfea1b
+│   │   ├── 2e
+│   │   │   └── 8a6c7cbd4022f4c97611b8161ac8b63a8ba7f2
+│   │   ├── 37
+│   │   │   └── 9a16482b1ee534640da284c33b30376f1db61a
+│   │   ├── 3a
+│   │   │   └── 672e58a3bdb1da69a0aeec12962b6c6220961d
+│   │   ├── 47
+│   │   │   └── d1ec17596a02a997eb111edc0d3db022d5d9ec
+│   │   ├── 52
+│   │   │   └── 5a19a3af7f33df8739703b13b24d7676c10734
+│   │   ├── 5c
+│   │   │   └── e4565f97c11bbde6a3dc3db0122750e88a8768
+│   │   ├── 5d
+│   │   │   └── 03a17f7612c780221a1defdcc51594e366f06d
+│   │   ├── 63
+│   │   │   └── f0efd95d8baebf868e2f3fc51097f6f83133b2
+│   │   ├── 75
+│   │   │   └── 94f749d62b51a5206693c6adf5a51d623b7a55
+│   │   ├── 76
+│   │   │   └── c3957ad2840523489164d4b5c00aaed7fffb76
+│   │   ├── 86
+│   │   │   └── 21a4578315cca32e07bec34704c05fde348ab9
+│   │   ├── 8b
+│   │   │   └── 51f1e1b3d88724334c0388a7e52f4b389074ff
+│   │   ├── 90
+│   │   │   ├── 3d16ced614098d8edd667126249bfa49388e75
+│   │   │   └── c5179461308dae4b668e103c20cd84ab98274a
+│   │   ├── 92
+│   │   │   └── 1e1c7e98492cbf2a74b1e6563ec90ee53f3751
+│   │   ├── 9b
+│   │   │   ├── 46e9525aabf23f7f68f8ccfe079bb1dbe972de
+│   │   │   └── ca3fc83e247f0c8c7024249c1fd4ebc563cf1c
+│   │   ├── a5
+│   │   │   └── eae1527c5eadf27de0874ded503475baa6420f
+│   │   ├── ad
+│   │   │   └── d61eda4bc05bf1109b0f963f127e523dfa305b
+│   │   ├── b2
+│   │   │   └── a56eb545e343cd67f79f6dc93305cbc011a67b
+│   │   ├── b6
+│   │   │   └── d509e0a4da3d8bfadca564a713e17a2f4cf402
+│   │   ├── cd
+│   │   │   └── 3138b6102e20c623e4ec2e6969de6f9b44e719
+│   │   ├── ce
+│   │   │   └── f7866ff985c5bb25a0f7f2dbdfb66e4f32978b
+│   │   ├── d1
+│   │   │   └── 75bb33bd925b8eac1a21382a495da89757d868
+│   │   ├── d2
+│   │   │   └── a576ce652235b83b20f34223bdbebf53a61752
+│   │   ├── d5
+│   │   │   └── cde686f588154a7197853324e2360bf741b634
+│   │   ├── e6
+│   │   │   └── 9de29bb2d1d6434b8b29ae775ad8c2e48c5391
+│   │   ├── e7
+│   │   │   └── 2bfddabc15be5718a7cc061ac10e47741d8219
+│   │   ├── ec
+│   │   │   └── 913b3b841135641fb75174adcec173f6a3618f
+│   │   ├── f8
+│   │   │   ├── 22ac1b9ad6dc9ded17f9213e629610c69b7c72
+│   │   │   └── 7577a0a4e19621c240a4b80e83b483e7f396a4
+│   │   ├── fa
+│   │   │   └── b26cb06382b691a1e6e7c26efb5c0e38543a41
+│   │   ├── info
+│   │   └── pack
+│   │       ├── pack-ff5cf428a10e97b2b93d941dcf2f86e24759599e.idx
+│   │       ├── pack-ff5cf428a10e97b2b93d941dcf2f86e24759599e.pack
+│   │       └── pack-ff5cf428a10e97b2b93d941dcf2f86e24759599e.rev
+│   ├── packed-refs
+│   └── refs
+│       ├── heads
+│       │   └── main
+│       ├── remotes
+│       │   └── origin
+│       │       ├── HEAD
+│       │       └── main
+│       └── tags
+├── .gitattributes
+├── .github
+│   ├── Chrome_Lighthouse_Report.png
+│   ├── Edge_Application_Report.png
+│   ├── Progressive-Web-Apps-Architecture.png
+│   ├── README.md
+│   ├── final_app.png
+│   ├── form_example.png
+│   ├── get_vscode_started.gif
+│   ├── git_bash_shell.png
+│   └── query_editor.png
+├── .gitignore
+├── .vscode
+│   ├── extensions.json
+│   └── settings.json
+├── LICENSE
+├── README.md
+├── Untitled-1.sqlite3-query
+├── __pycache__
+│   └── database_manager.cpython-312.pyc
+├── database
+│   ├── data_source.db
+│   └── my_queries.sql
+├── database_manager.py
+├── directory_structure.txt
+├── folders.txt
+├── js
+│   ├── app.js
+│   └── serviceworker.js
+├── main.py
+├── progress.md
+├── requirements.txt
+├── static
+│   ├── css
+│   │   └── style.css
+│   └── manifest.json
+├── templates
+│   ├── index.html
+│   ├── layout.html
+│   └── partials
+│       └── menu.html
+├── working-documents
+│   ├── desktop_screenshot.png
+│   ├── favicon.ai
+│   ├── favicon_original.png
+│   ├── icon-128x128.png
+│   ├── icon-192x192.png
+│   ├── icon-384x384.png
+│   ├── icon-512x512.png
+│   ├── logo.ai
+│   ├── logo_original.png
+│   ├── mobile_screenshot.png
+│   └── tinified.zip
+└── working_documents
+
+64 directories, 112 files
