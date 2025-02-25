@@ -1,0 +1,45 @@
+.
+├── LICENSE
+├── README.md
+├── Untitled-1.sqlite3-query
+├── __pycache__
+│   └── database_manager.cpython-312.pyc
+├── database
+│   ├── Untitled-1.sqlite3-query
+│   ├── data_source.db
+│   └── my_queries.sql
+├── database_manager.py
+├── directory_structure.txt
+├── directory_structure2.txt
+├── folders.txt
+├── js
+│   ├── app.js
+│   └── serviceworker.js
+├── main.py
+├── progress.md
+├── progress.txt
+├── requirements.txt
+├── static
+│   ├── css
+│   │   └── style.css
+│   ├── icons
+│   │   ├── icon-128x128.png
+│   │   ├── icon-192x192.png
+│   │   ├── icon-384x384.png
+│   │   └── icon-512x512.png
+│   └── manifest.json
+├── templates
+│   ├── index.html
+│   ├── layout.html
+│   └── partials
+│       └── menu.html
+└── working_documents
+    ├── desktop_screenshot.png
+    ├── favicon.ai
+    ├── favicon_original.png
+    ├── logo.ai
+    ├── logo_original.png
+    ├── mobile_screenshot.png
+    └── tinified.zip
+
+9 directories, 33 files
